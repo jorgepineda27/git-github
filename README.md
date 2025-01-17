@@ -67,3 +67,5 @@ Aquí es donde están todos los archivos de esta carpeta y donde la clase comenz
 Puedes verla [aquí](/Paquete/).
 
 jepp : contribucion
+
+jorgepineda : controbioiocn de desde github
